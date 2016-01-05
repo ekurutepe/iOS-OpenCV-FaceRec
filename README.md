@@ -6,7 +6,7 @@ Please read objc.io issue 21 for the detailed description.
 
 ##Installation: 
 
-Assuming you are have [Cocoapods](https://guides.cocoapods.org/using/getting-started.html) installed, you will also need [Cmake](https://cmake.org) in order to be able to build OpenCV locally. 
+Assuming you already have [Cocoapods](https://guides.cocoapods.org/using/getting-started.html) installed, you will also need [Cmake](https://cmake.org) in order to be able to build OpenCV locally. 
 
 The easiest way to install Cmake is using [Homebrew](http://brew.sh):
 
